@@ -1,0 +1,31 @@
+Train on 15960 samples, validate on 3990 samples
+Epoch 28/50
+15960/15960 [==============================] - 1196s 75ms/step - loss: 0.0921 - dice_coef: 0.9079 - val_loss: 0.4549 - val_dice_coef: 0.5451
+
+Epoch 00028: val_dice_coef improved from -inf to 0.54509, saving model to ./model/Bias/weight_core_best.h5
+Epoch 29/50
+15960/15960 [==============================] - 1188s 74ms/step - loss: 0.0978 - dice_coef: 0.9022 - val_loss: 0.5775 - val_dice_coef: 0.4225
+
+Epoch 00029: val_dice_coef did not improve from 0.54509
+Epoch 30/50
+15960/15960 [==============================] - 1188s 74ms/step - loss: 0.0883 - dice_coef: 0.9117 - val_loss: 0.5153 - val_dice_coef: 0.4847
+
+Epoch 00030: val_dice_coef did not improve from 0.54509
+Epoch 31/50
+15960/15960 [==============================] - 1187s 74ms/step - loss: 0.0870 - dice_coef: 0.9130 - val_loss: 0.5812 - val_dice_coef: 0.4188
+
+Epoch 00031: val_dice_coef did not improve from 0.54509
+Epoch 32/50
+15960/15960 [==============================] - 1188s 74ms/step - loss: 0.0893 - dice_coef: 0.9107 - val_loss: 0.5418 - val_dice_coef: 0.4582
+
+Epoch 00032: val_dice_coef did not improve from 0.54509
+Epoch 33/50
+15960/15960 [==============================] - 1188s 74ms/step - loss: 0.0855 - dice_coef: 0.9145 - val_loss: 0.4950 - val_dice_coef: 0.5050
+
+Epoch 00033: val_dice_coef did not improve from 0.54509
+Epoch 34/50
+15960/15960 [==============================] - 1188s 74ms/step - loss: 0.0871 - dice_coef: 0.9129 - val_loss: 0.5019 - val_dice_coef: 0.4981
+
+Epoch 00034: val_dice_coef did not improve from 0.54509
+Epoch 35/50
+15960/15960 [==============================] - 1188s 74ms/step - loss: 0.0889 - dice_coef: 0.9111 - val_loss: 0.5453 - val_dice_coef: 0.4547
